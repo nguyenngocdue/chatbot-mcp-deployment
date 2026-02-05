@@ -1,4 +1,4 @@
-import { n as e, n as o } from "./embed-CPPPUHc1.js";
+import { n as e, n as o } from "./embed-DL1g_BKL.js";
 export {
   e as ChatbotEmbed,
   o as default
